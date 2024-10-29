@@ -1,4 +1,5 @@
 **[For now, only the Russian version]**
+
 **This project is a script for the FiveM server that adds the “Admin” prefix to players with administrative rights.**
 
   **Main functionalities**
